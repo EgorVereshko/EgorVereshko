@@ -2,7 +2,11 @@
   <img  height="300" width="600" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" style="border-radius: 10px;" />
 </div>
 
-## Привет👋 Меня зовут Егор!
+###
+
+<h1 align="center">Привет👋 Меня зовут Егор!</h1>
+
+###
 
 <div align="center">
   <a href="mailto:egor.vereshko@mail.ru" target="_blank">
@@ -15,7 +19,7 @@
     <img src="https://img.shields.io/static/v1?message=VK&logo=vk&label=&color=0077FF&logoColor=white&style=for-the-badge" height="25" />
   </a>
 </div>
-
+<br>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=EgorVereshko&style=flat-square&color=blue" />
 </div>
