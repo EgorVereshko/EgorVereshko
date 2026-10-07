@@ -33,7 +33,9 @@
 <div>
   💻 Web-разработчик / Frontend
   <br>
-  Создаю адаптивные и функциональные веб-сайты и приложения — от лендингов и блогов до интернет-магазинов. Специализируюсь на верстке дизайнов любой сложности с использованием HTML, CSS, JavaScript, а также разработке с применением React, Node.js, Django, SQL и других современных технологий.
+  Разрабатываю веб-приложения на React, JavaScript и TypeScript. Люблю создавать удобные интерфейсы, разбираться в сложных задачах и писать понятный, поддерживаемый код.
+  <br>
+  Интересуюсь развитием frontend-разработки, современными инструментами и архитектурой приложений. Постоянно изучаю новые технологии и стараюсь применять их на практике.
   <br><br>
   🚀 Постоянно развиваюсь в области веб-разработки, изучаю новые инструменты и подходы, чтобы создавать более качественные, быстрые и удобные решения.
 </div><br>
@@ -43,15 +45,15 @@
 <h3 align="left">🛠 Технологии</h3>
 
 ###
-
 <div style="display: flex; flex-wrap: wrap; gap: 8px;">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-92008E?style=for-the-badge&logo=csharp&logoColor=white" />
